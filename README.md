@@ -2,7 +2,7 @@
 Basic windows gui for minecraft bedrock server. Written in Python using tkinter.
 
 
-![Screenshot](https://github.com/bunkford/BEDROCK_SERVER/raw/master/screenshot.png)
+![Screenshot](https://github.com/bunkford/BEDROCK_SERVER_GUI/raw/master/screenshot.png)
 
 ## Player List
 
